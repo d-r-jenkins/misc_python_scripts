@@ -1,0 +1,5 @@
+*.html
+*.svg
+*.ini
+*.md
+!README.md

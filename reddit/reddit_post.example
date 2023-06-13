@@ -1,0 +1,8 @@
+[DEFAULT]
+outpath = ./reddit_pages/
+overwrite = true
+
+[https://www.reddit.com/r/AskPhilosophyFAQ/comments/7o6pm0/what_are_some_good_philosophy_youtube_channels/]
+title = Testing a new title
+
+[https://www.reddit.com/r/AskHistorians/wiki/books/europe/]
